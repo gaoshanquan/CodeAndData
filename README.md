@@ -6,6 +6,18 @@ A crawler to get apk files from APK Download
   A crawler to get reviews from google play
 <br>
 ## AnalyzeAPK
+### 普通文本
+这是一段普通的文本
+### 单行文本
+    Hello,大家好，我是果冻虾仁。
+在一行开头加入1个Tab或者4个空格。
+### 文本块
+#### 语法1
+在连续几行的文本开头加入1个Tab或者4个空格。
+
+    欢迎到访
+    很高兴见到您
+    祝您，早上好，中午好，下午好，晚安
   Analyze apk files to get mappings between features and used APIs.
   <br>
   The steps to use the program are as follows:
