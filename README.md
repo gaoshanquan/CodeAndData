@@ -10,8 +10,8 @@ Analyze apk files to get mappings between features and used APIs.
     
 ### Usage
 * The steps to use the program are as follows:<br>
-    **Firstly**, analyze apks by using *AnalyzeApkByApktool.py*, the output is the source smali file and resource folder.<br>
-    **Secondly**, taking the apk file and the corresponding resource folder as input of *GetMappings.py*, you can get two XLSX files: one of the files shows the features extracted from the apk, and the other file shows the APIs used by these features.<br>
+    Firstly, analyze apks by using *AnalyzeApkByApktool.py*, the output is the source smali file and resource folder.<br>
+    Secondly, taking the apk file and the corresponding resource folder as input of *GetMappings.py*, you can get two XLSX files: one of the files shows the features extracted from the apk, and the other file shows the APIs used by these features.<br>
   
   
 ## Example
