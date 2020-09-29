@@ -10,9 +10,9 @@ A crawler to get apk files from APK Download
   <br>
   The steps to use the program are as follows:
   <br>
-  First, analyze apks by using *AnalyzeApkByApktool.py*, the output is the source smali file and resource folder.
+  **Firstly**, analyze apks by using *AnalyzeApkByApktool.py*, the output is the source smali file and resource folder.
   <br>
-  Second, taking the apk file and the corresponding resource folder as input of *GetMappings.py*, you can get two XLSX files: one of the files shows the features extracted from the apk, and the other file shows the APIs used by these features.
+  **Secondly**, taking the apk file and the corresponding resource folder as input of *GetMappings.py*, you can get two XLSX files: one of the files shows the features extracted from the apk, and the other file shows the APIs used by these features.
 <br>
 ## Example
 Several APK files and the results gained after processing them with the code in AnalyzeAPK
